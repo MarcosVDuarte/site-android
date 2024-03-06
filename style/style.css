@@ -64,8 +64,9 @@
  nav {
     background-color: var(--cor5);
     text-align: center;
-    padding: 20px;
-    
+    padding: 10px;
+    display: flex;
+    justify-content: center;
  }
 
  .link {
